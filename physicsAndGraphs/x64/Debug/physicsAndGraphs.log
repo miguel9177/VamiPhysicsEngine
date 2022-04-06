@@ -1,0 +1,6 @@
+﻿  GameEngine.cpp
+D:\faculdade\2ndAno2ndSemestre\physicsAndGraphsAssesment\physicsGraphsAssesment10130980\physicsAndGraphs\GraphicsEngine.h(47): warning C4091: 'static ': ignored on left of 'GraphicsEngine::object' when no variable is declared
+D:\faculdade\2ndAno2ndSemestre\physicsAndGraphsAssesment\physicsGraphsAssesment10130980\physicsAndGraphs\GraphicsEngine.h(48): warning C4091: 'static ': ignored on left of 'GraphicsEngine::buffer_' when no variable is declared
+D:\faculdade\2ndAno2ndSemestre\physicsAndGraphsAssesment\physicsGraphsAssesment10130980\physicsAndGraphs\scripts\cameraController.h(44): warning C4091: 'static ': ignored on left of 'cameraController::cameraPositions' when no variable is declared
+D:\faculdade\2ndAno2ndSemestre\physicsAndGraphsAssesment\physicsGraphsAssesment10130980\physicsAndGraphs\GameEngine.cpp(34,22): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  physicsAndGraphs.vcxproj -> D:\faculdade\2ndAno2ndSemestre\physicsAndGraphsAssesment\physicsGraphsAssesment10130980\physicsAndGraphs\x64\Debug\physicsAndGraphs.exe
